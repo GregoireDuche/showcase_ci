@@ -1,3 +1,4 @@
+<!-- Listing posts from a category -->
 <div class="bx-viewport">
 	<ul>
 		{posts}

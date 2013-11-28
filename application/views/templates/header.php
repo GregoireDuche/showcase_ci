@@ -1,4 +1,6 @@
-<?php 
+<!--Header of the website -->
+<?php
+ 	// Loading the helper to use URL
 	$this->load->helper('url');
 ?>
 <!DOCTYPE HTML>

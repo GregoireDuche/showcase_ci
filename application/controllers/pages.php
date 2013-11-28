@@ -1,3 +1,8 @@
+<?php 
+/**
+ * This controller get the type of page called and get the posts of the matching category in the database
+*/
+?>
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Pages extends CI_Controller {

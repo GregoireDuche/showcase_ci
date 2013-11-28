@@ -1,4 +1,9 @@
 <?php
+/**
+ * A post is a an object composed with a title, link and description. 
+ * It is linked to a category.
+
+ * */
 class Posts extends CI_Model {
 	
 	var $title = '';
