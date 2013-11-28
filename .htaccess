@@ -1,0 +1,4 @@
+#RewriteBase /showcase/ci/
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|robots\.txt|ux)
+RewriteRule ^(.*)$ index.php/$1 [L]
